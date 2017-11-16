@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Countdown Timer</string>
+    <string name="empty">空</string>
+    <string name="timer">3:00</string>
+</resources>
